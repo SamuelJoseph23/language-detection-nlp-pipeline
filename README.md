@@ -85,11 +85,11 @@ python main.py
 
 
 ## Project Structure
-
+```
 .
 ├── main.py # Full language detection pipeline
 └── README.md # Project documentation
-
+```
 
 ## Explanation Highlights
 
