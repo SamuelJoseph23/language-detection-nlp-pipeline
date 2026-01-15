@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+matplotlib
+wordcloud
+nltk
+spacy
+textblob
+langdetect
+joblib
+numpy
